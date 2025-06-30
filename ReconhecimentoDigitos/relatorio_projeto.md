@@ -49,13 +49,6 @@ pip install tensorflow matplotlib
 - Execute `exemplo_previsao.py`
 - O modelo `modelo_mnist.keras` já está pronto e não precisa ser re-treinado
 
-## 5. Observações Finais
-- O modelo foi salvo no formato `.keras` conforme solicitado
-- O formato `SavedModel` não foi utilizado
-- Todos os arquivos necessários para execução estão no repositório
 
----
-
-**Link do repositório:** *(https://github.com/Anderson-C-Rodrigues/trabalho-final-IA/edit/main/ReconhecimentoDigitos/relatorio_projeto.md)*
 
 
