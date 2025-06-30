@@ -40,3 +40,9 @@ O arquivo `modelo_mnist.keras` é o modelo já treinado, pronto para uso local. 
 3. Execute `exemplo_previsao.py` para verificar o funcionamento do modelo com exemplos prontos
 4. Não é necessário executar o treinamento novamente
 
+## Ambiente de desenvolvimento
+
+O código foi desenvolvido e testado no ambiente online **Google Colaboratory (Colab)**, que já possui as bibliotecas necessárias instaladas e permite fácil execução sem configuração local.  
+
+
+
