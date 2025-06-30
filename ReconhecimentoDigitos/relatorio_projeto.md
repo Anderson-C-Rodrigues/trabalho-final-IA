@@ -5,7 +5,7 @@ Este projeto tem como objetivo aplicar conceitos de Deep Learning utilizando a b
 
 ## 2. Funcionamento do Código
 
-### 2.1 `treinamento_mnist.py`
+### 2.1 treinamento_mnist.py
 Este é o script principal de treinamento:
 - Carrega o dataset MNIST via `keras.datasets`.
 - Normaliza os dados de entrada (escala de 0 a 1).
