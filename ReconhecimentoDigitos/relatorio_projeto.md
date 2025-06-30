@@ -56,7 +56,6 @@ pip install tensorflow matplotlib
 
 ---
 
-**Link do repositório:** *(adicionar aqui após upload no GitHub)*
+**Link do repositório:** *(https://github.com/Anderson-C-Rodrigues/trabalho-final-IA/edit/main/ReconhecimentoDigitos/relatorio_projeto.md)*
 
-**Autor:** Anderson Rodrigues  
-**Baseado em:** https://github.com/ProfessorFilipo/PythonAI/tree/main/DeepLearning
+
