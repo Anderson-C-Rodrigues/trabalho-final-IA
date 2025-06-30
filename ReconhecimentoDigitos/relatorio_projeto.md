@@ -18,7 +18,7 @@ Este é o script principal de treinamento:
 - Avalia a acurácia do modelo com os dados de teste
 - Salva o modelo em `modelo_mnist.keras`
 
-### 2.2 `exemplo_previsao.py`
+### 2.2 exemplo_previsao.py
 Script que utiliza o modelo salvo para fazer previsões:
 - Carrega o modelo `.keras`
 - Seleciona aleatoriamente 10 imagens do conjunto de teste
